@@ -13,11 +13,11 @@
 ---
 
 ## ⚡ About Me
-I’m a B.Tech CSE (AI) student and Founder of **Drapels**, an AI-powered platform helping people get job-ready with roadmaps, interview prep, and live learning.  
+I’m a B.Tech CSE (AI) student 
 
 Instead of just studying AI, I build with it — from **LLMs and RAG** to full-stack apps using **Next.js, Firebase, and Vercel**.  
 
-I’m scaling Drapels and open to **collaborations, partnerships, and growth opportunities** in AI and startups.
+
 
 ---
 
@@ -30,8 +30,8 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t4zn&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC4&icon_color=FF6EC4" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4zn&theme=radical&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yugpat1601&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC4&icon_color=FF6EC4" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugpat1601&theme=radical&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
 </p>
 
 <!-- Animated Contribution Snake -->
