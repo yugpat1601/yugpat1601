@@ -14,8 +14,7 @@
 
 ## ⚡ About Me
 I’m a B.Tech CSE (AI) student 
-
-Instead of just studying AI, I build with it — from **LLMs and RAG** to full-stack apps using **Next.js, Firebase, and Vercel**.  
+I'm currently learning programming fundamentals and version control. I love solving problems and contributing to beginner-friendly projects to improve my skills.
 
 
 
@@ -23,7 +22,7 @@ Instead of just studying AI, I build with it — from **LLMs and RAG** to full-s
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,js&perline=4" />
 </p>
 
 ---
@@ -43,7 +42,6 @@ Instead of just studying AI, I build with it — from **LLMs and RAG** to full-s
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/yug-patni-31931a322"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
   <a href="mailto:yugpatni12@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
